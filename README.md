@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Yakhyo+Abdulkhakov">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Tashkent</b> 」
     <br>
